@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\ThirdParty",
+    "\\ThirdParty\\GLFW3.3.2-WIN64",
+    "\\ThirdParty\\GLFW3.3.2-WIN64\\include",
+    "\\ThirdParty\\GLFW3.3.2-WIN64\\include\\GLFW",
+    "\\ThirdParty\\GLFW3.3.2-WIN64\\lib-vc2017"
+  ],
+  "SelectedNode": "\\src\\main.cpp",
+  "PreviewInSolutionExplorer": false
+}
